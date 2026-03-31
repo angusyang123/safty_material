@@ -1,0 +1,9 @@
+{
+  "default_initial_stock": 200,
+  "warehouse_material_stocks": {
+    "南京仓_西米": 200,
+    "南京仓_麻薯": 350,
+    "北京仓_西米": 180,
+    "北京仓_麻薯": 300
+  }
+}
